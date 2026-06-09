@@ -1,0 +1,15 @@
+# 个人内容（fork 后由用户自己维护，开源仓不应包含）
+profile.md
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 临时文件
+*~
+*.tmp
+*.bak
+.~lock.*
